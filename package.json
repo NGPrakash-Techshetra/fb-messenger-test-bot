@@ -1,0 +1,24 @@
+{
+  "name": "fb-messenger-test-bot",
+  "version": "1.0.0",
+  "description": "Facebook Messenger Bot Test Server App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NGPrakash-Techshetra/fb-messenger-test-bot.git"
+  },
+  "author": "Prakash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NGPrakash-Techshetra/fb-messenger-test-bot/issues"
+  },
+  "homepage": "https://github.com/NGPrakash-Techshetra/fb-messenger-test-bot#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
